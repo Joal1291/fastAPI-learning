@@ -1,8 +1,6 @@
 
 ![FASTAPI](image/fastapi-logo.png)
 
-
-
 # Mon Apprentissage FastAPI
 
 Ce dépôt Git est dédié à mon parcours d'apprentissage de FastAPI. FastAPI est un framework web moderne, rapide (hautes performances), web (compatible avec les navigateurs), pour la création d'API avec Python 3.7+ basé sur des annotations de type Python standard.
@@ -39,8 +37,8 @@ L'application sera alors accessible à l'adresse http://127.0.0.1:8000.
 
 ## Ressource
 
- - [FastAPI](https://fastapi.tiangolo.com/)
- - [FastAPI Git](https://github.com/tiangolo/fastapi)
+[FastAPI](https://fastapi.tiangolo.com/) <br/>
+[FastAPI Git](https://github.com/tiangolo/fastapi)
 
 <!-- ## Documentation
 
