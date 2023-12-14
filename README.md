@@ -1,3 +1,8 @@
+
+![FASTAPI](image/fastapi-logo.png)
+
+
+
 # Mon Apprentissage FastAPI
 
 Ce dépôt Git est dédié à mon parcours d'apprentissage de FastAPI. FastAPI est un framework web moderne, rapide (hautes performances), web (compatible avec les navigateurs), pour la création d'API avec Python 3.7+ basé sur des annotations de type Python standard.
