@@ -34,8 +34,8 @@ L'application sera alors accessible à l'adresse http://127.0.0.1:8000.
 
 ## Ressource
 
-[FastAPI](https://fastapi.tiangolo.com/)
-[FastAPI Git](https://github.com/tiangolo/fastapi)
+ - [FastAPI](https://fastapi.tiangolo.com/)
+ - [FastAPI Git](https://github.com/tiangolo/fastapi)
 
 <!-- ## Documentation
 
