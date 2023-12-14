@@ -32,9 +32,14 @@ uvicorn src.main:app --reload
 ```
 L'application sera alors accessible à l'adresse http://127.0.0.1:8000.
 
-## Documentation
+## Ressource
 
-La documentation générée automatiquement par FastAPI sera disponible à l'adresse http://127.0.0.1:8000/docs.
+[FastAPI](https://fastapi.tiangolo.com/)
+[FastAPI Git](https://github.com/tiangolo/fastapi)
+
+<!-- ## Documentation
+
+La documentation générée automatiquement par FastAPI sera disponible à l'adresse http://127.0.0.1:8000/docs. -->
 
 ## Contributions
 Les contributions sont les bienvenues. N'hésitez pas à ouvrir des issues pour des questions, des suggestions ou des rapports de bogues.
